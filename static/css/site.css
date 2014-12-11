@@ -1,0 +1,93 @@
+a {
+  text-decoration: none;
+}
+
+.section {
+}
+
+.contact-row .fa {
+  color: #000;
+}
+
+.my-photo {
+  border-radius: 50px;
+  height: 100px;
+}
+
+.bar {
+  border: 1px solid #000;
+  height: 24px;
+  display: block;
+}
+
+
+.bar-100 {
+  width: 100%;
+}
+
+.bar-90 {
+  width: 90%;
+}
+
+.bar-85 {
+  width: 85%;
+}
+
+.bar-80 {
+  width: 80%;
+}
+
+.bar-75 {
+  width: 75%;
+}
+
+.bar-70 {
+  width: 70%;
+}
+
+.bar-65 {
+  width: 65%;
+}
+
+.bar-60 {
+  width: 60%;
+}
+
+.bar-55 {
+  width: 55%;
+}
+
+.bar-50 {
+  width: 50%;
+}
+
+.bar-40 {
+  width: 40%;
+}
+
+.bar-30 {
+  width: 30%;
+}
+
+.bar-10 {
+  width: 10%;
+}
+
+
+.bar-div {
+  margin-bottom: 10px;
+}
+
+.bar-div strong {
+  position: absolute;
+  padding-left: 5px;
+  color: #000;
+}
+
+.portfolio img {
+  border: solid 1px #000;
+}
+
+.action {
+  text-align: center;
+}
