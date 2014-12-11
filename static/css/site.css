@@ -97,7 +97,7 @@ a {
   text-align: center;
 }
 
-@media (min-width: 837px) {
+@media (min-width: 900px) {
   .contact .blurb {
     position: relative;
     top: 50%;
