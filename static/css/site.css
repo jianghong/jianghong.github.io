@@ -19,8 +19,7 @@ a {
 }
 
 .bar {
-  border: 1px solid #000;
-  height: 24px;
+  height: 30px;
   display: block;
   background-color: #33C3F0;
 }
@@ -85,7 +84,7 @@ a {
 
 .bar-div p {
   position: absolute;
-  padding-left: 5px;
+  padding: 2px 0 0 5px;
   color: #fff;
 }
 
