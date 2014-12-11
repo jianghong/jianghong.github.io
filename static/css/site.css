@@ -87,3 +87,7 @@ a {
 .portfolio img {
   border: solid 1px #000;
 }
+
+.action {
+  text-align: center;
+}
