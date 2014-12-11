@@ -2,7 +2,12 @@ a {
   text-decoration: none;
 }
 
-.section {
+.contact {
+  padding-top: 2rem;
+}
+
+.header-img {
+  border: dashed 2px #000;
 }
 
 .contact-row .fa {
@@ -90,4 +95,12 @@ a {
 
 .action {
   text-align: center;
+}
+
+@media (min-width: 837px) {
+  .contact .blurb {
+    position: relative;
+    top: 50%;
+    transform: translateY(50%);    
+  }
 }
