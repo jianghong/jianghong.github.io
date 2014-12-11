@@ -83,3 +83,7 @@ a {
   padding-left: 5px;
   color: #000;
 }
+
+.portfolio img {
+  border: solid 1px #000;
+}
