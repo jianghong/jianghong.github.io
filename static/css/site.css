@@ -14,15 +14,15 @@ a {
   color: #000;
 }
 
-.my-photo {
-  border-radius: 50px;
-  height: 100px;
+.contact-info {
+  margin-bottom: 3px;
 }
 
 .bar {
   border: 1px solid #000;
   height: 24px;
   display: block;
+  background-color: #33C3F0;
 }
 
 
@@ -83,10 +83,10 @@ a {
   margin-bottom: 10px;
 }
 
-.bar-div strong {
+.bar-div p {
   position: absolute;
   padding-left: 5px;
-  color: #000;
+  color: #fff;
 }
 
 .portfolio img {
